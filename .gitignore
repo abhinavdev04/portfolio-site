@@ -1,0 +1,12 @@
+# Ignore log files
+*.log
+
+# Ignore environment variables / secrets
+.env
+
+# Ignore system-specific files
+.DS_Store
+
+# Other Dependicies
+node_modules/
+venv/
